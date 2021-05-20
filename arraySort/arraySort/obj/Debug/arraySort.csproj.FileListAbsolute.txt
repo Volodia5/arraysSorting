@@ -1,0 +1,7 @@
+C:\Users\Asus\Source\Repos\Volodia5\arraysSorting\arraySort\arraySort\obj\Debug\arraySort.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\Volodia5\arraysSorting\arraySort\arraySort\obj\Debug\arraySort.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\Volodia5\arraysSorting\arraySort\arraySort\bin\Debug\arraySort.exe.config
+C:\Users\Asus\Source\Repos\Volodia5\arraysSorting\arraySort\arraySort\bin\Debug\arraySort.exe
+C:\Users\Asus\Source\Repos\Volodia5\arraysSorting\arraySort\arraySort\bin\Debug\arraySort.pdb
+C:\Users\Asus\Source\Repos\Volodia5\arraysSorting\arraySort\arraySort\obj\Debug\arraySort.exe
+C:\Users\Asus\Source\Repos\Volodia5\arraysSorting\arraySort\arraySort\obj\Debug\arraySort.pdb
